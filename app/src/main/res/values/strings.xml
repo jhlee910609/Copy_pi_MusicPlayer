@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMyMp3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="blank">" "</string>
+
+    <string-array name="menu_arrays">
+        <item>재생목록 추가</item>
+        <item>재생목록 삭제</item>
+    </string-array>
+
+</resources>
